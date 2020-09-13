@@ -1,0 +1,13 @@
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\bin\Debug\netcoreapp3.1\laboratorio.exe
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\bin\Debug\netcoreapp3.1\laboratorio.deps.json
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\bin\Debug\netcoreapp3.1\laboratorio.runtimeconfig.json
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\bin\Debug\netcoreapp3.1\laboratorio.runtimeconfig.dev.json
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\bin\Debug\netcoreapp3.1\laboratorio.dll
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\bin\Debug\netcoreapp3.1\laboratorio.pdb
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.csprojAssemblyReference.cache
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.AssemblyInfo.cs
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.dll
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.pdb
+C:\Users\bryan pozo\source\repos\laboratorio\laboratorio\obj\Debug\netcoreapp3.1\laboratorio.genruntimeconfig.cache

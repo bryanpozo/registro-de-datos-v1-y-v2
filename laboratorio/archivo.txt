@@ -1,0 +1,2 @@
+Nombre,Apellido,Edad,Cedula:bryan,medina,19,111111111
+onibe,reyes,17,0000
